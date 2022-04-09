@@ -32,3 +32,5 @@ defdict = collections.defaultdict(list)
 for i in range(0, n):
     defdict[i].append(dict_1)
 print(defdict)
+
+
